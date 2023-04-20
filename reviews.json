@@ -1,0 +1,159 @@
+{
+    "Tomato" :{
+        "originalPost" :{
+            "id": "1",
+            "commentNo": "2",
+            "name": "Tomato",
+            "location": "Ithaca, NY",
+            "content": "Great plant! Grows exceptionally well in New York",
+            "author": "John Doe",
+            "date": "12/2/22  5:00pm"
+        },
+        "comments" :{
+            "comment1" : {
+                "location": "Syracuse, NY",
+                "content": "love love love this plant!",
+                "author": "Caitlyn Johnson",
+                "date": "12/2/22  5:10pm"
+            },
+            "comment2" : {
+                "location": "Syracuse, NY",
+                "content": "Yes a great plant, but be sure to watch our for animals and pests. They always seem to be attracted to the bright red color",
+                "author": "Sydney Johnson",
+                "date": "12/2/22  8:10pm"
+            }
+        }
+    },
+    "Basil" :{
+        "originalPost" :{
+            "id": "2",
+            "commentNo": "1",
+            "name": "Basil",
+            "location": "Syracuse, NY",
+            "content": "Love having fresh herbs at home. I moved it inside for the winter and its still growing!",
+            "author": "Jane Doe",
+            "date": "12/2/22"
+     },
+        "comments" :{
+            "comment1" : {
+                "location": "Syracuse, NY",
+                "content": "love love love this plant!",
+                "author": "Sydney Johnson",
+                "date": "12/2/22  5:10pm"
+            }
+    }
+    },
+    "Cucumber" :{
+        "originalPost" :{
+            "id": "3",
+            "commentNo": "2",
+            "name": "Cucumber",
+            "location": "Romulus, NY",
+            "content": "Great for summer and Salad",
+            "author": "James Dough",
+            "date": "8/3/22"
+     },
+        "comments" :{
+            "comment1" : {
+                "location": "Syracuse, NY",
+                "content": "Yes goes great in my salds",
+                "author": "Jake Dough",
+                "date": "10/4/22  5:20pm"
+            },
+            "comment2" : {
+                "location": "Syracuse, NY",
+                "content": "Very easy to grow and i love to pickle them.",
+                "author": "Janet Dough",
+                "date": "10/4/22  5:20pm"
+            }
+    }
+    },
+    "Apple" :{
+        "originalPost" :{
+            "id": "4",
+            "commentNo": "3",
+            "name": "Apple",
+            "location": "Romulus, NY",
+            "content": "Not an easy plant to grow at home. Too much maintence would not recommend",
+            "author": "Jared Doe",
+            "date": "10/3/22"
+     },
+        "comments" :{
+            "comment1" : {
+                "location": "Syracuse, NY",
+                "content": "I also had trouble with this plant any tips??",
+                "author": "Jake Dough",
+                "date": "10/4/22  5:20pm"
+            },
+            "comment2" : {
+                "location": "Syracuse, NY",
+                "content": "Try having a bit of growing space between each plant! Also don't forget to water frequently. I hope that helps",
+                "author": "Janice Dough",
+                "date": "10/4/22  5:21pm"
+            },
+            "comment3" : {
+                "location": "Syracuse, NY",
+                "content": "You can also add some wires to help support the plants as they grow. This is a challenging plant and may take a few tries to do so successfully. You have got this. ",
+                "author": "Jamie Doe",
+                "date": "10/4/22  9:21pm"
+            }
+    }
+    },
+    "Oranges" :{
+        "originalPost" :{
+            "id": "5",
+            "commentNo": "1",
+            "name": "Oranges",
+            "location": "Ithaca, NY",
+            "content": "These do not grow well here! It is much too cold. I would recommend if you live down south!",
+            "author": "Jason Doe",
+            "date": "10/3/22"
+     },
+        "comments" :{
+            "comment1" : {
+                "location": "Syracuse, NY",
+                "content": "Why would you try to grow oranges in NY?!?!",
+                "author": "Janer Dough",
+                "date": "10/4/22  5:20pm"
+            }
+    }
+    },
+    "Beans" :{
+        "originalPost" :{
+            "id":"6",
+            "commentNo": "1",
+            "name": "Beans",
+            "location": "Ithaca, NY",
+            "content": "Always a hit or miss for me! Any recommendations on consitency",
+            "author": "Jon Doe",
+            "date": "12/5/22"
+     },
+        "comments" :{
+            "comment1" : {
+                "location": "Syracuse, NY",
+                "content": "Yes! I always say with beans: WATER WATER WATER",
+                "author": "Jan Dough",
+                "date": "12/5/22  6:20pm"
+            }
+    }
+    },
+    "Pumpkins" :{
+        "originalPost" :{
+            "id": "7",
+            "commentNo": "1",
+            "name": "Pumpkins",
+            "location": "Buffalo, NY",
+            "content": "I've never grown a pumpkin before. A very cool and challenging experience",
+            "author": "Jonathan Doe",
+            "date": "11/7/22"
+     },
+        "comments" :{
+            "comment1" : {
+                "location": "Syracuse, NY",
+                "content": "I've been trying. They are always smaller than I would like though",
+                "author": "Jane Dough",
+                "date": "11/9/22  6:20pm"
+            }
+    }
+    }
+}

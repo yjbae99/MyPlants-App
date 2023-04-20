@@ -1,0 +1,157 @@
+{
+    "plant1": {
+        "id": 1,
+        "name": "Arugula",
+        "difficulty": "3",
+        "space": "2",
+        "time": "4",
+        "price": "3.75"
+    },
+    "plant2": {
+        "id": 2,
+        "name": "Asparagus",
+        "difficulty": "2",
+        "space": "3",
+        "time": "1",
+        "price": "4.50"
+    },
+    "plant3": {
+        "id": 3,
+        "name": "Black Bean",
+        "difficulty": "1",
+        "space": "1",
+        "time": "2",
+        "price": "3.75"
+
+    },
+    "plant4": {
+        "id": 4,
+        "name": "Yellow Bean",
+        "difficulty": "4",
+        "space": "2",
+        "time": "5",
+        "price": "3.75"
+
+    },
+    "plant5": {
+        "id": 5,
+        "name": "Broccoli",
+        "difficulty": "2",
+        "space": "4",
+        "time": "3",
+        "price": "3.75"
+
+    },
+    "plant6": {
+        "id": 6,
+        "name": "Celery",
+        "difficulty": "1",
+        "space": "3",
+        "time": "2",
+        "price": "3.75"
+    },
+    "plant7": {
+        "id": 7,
+        "name": "Eggplant",
+        "difficulty": "4",
+        "space": "3",
+        "time": "5",
+        "price": "3.75"
+    },
+    "plant8": {
+        "id": 8,
+        "name": "Kale",
+        "difficulty": "1",
+        "space": "2",
+        "time": "1",
+        "price": "3.75"
+    },
+    "plant9": {
+        "id": 9,
+        "name": "Pepper",
+        "difficulty": "2",
+        "space": "4",
+        "time": "4",
+        "price": "3.75"
+    },
+    "plant10": {
+        "id": 10,
+        "name": "Tomato",
+        "difficulty": "4",
+        "space": "4",
+        "time": "3",
+        "price": "2.70"
+    },
+    "plant11": {
+        "id": 11,
+        "name": "Spinach",
+        "difficulty": "2",
+        "space": "2",
+        "time": "5",
+        "price": "3.75"
+    },
+    "plant12": {
+        "id": 12,
+        "name": "Beet",
+        "difficulty": "5",
+        "space": "3",
+        "time": "4",
+        "price": "4.15"
+    },
+    "plant13": {
+        "id": 13,
+        "name": "Brussel Sprouts",
+        "difficulty": "2",
+        "space": "3",
+        "time": "1",
+        "price": "4.50"
+    },
+    "plant14": {
+        "id": 14,
+        "name": "Carrot",
+        "difficulty": "5",
+        "space": "4",
+        "time": "3",
+        "price": "2.70"
+    },
+    "plant15": {
+        "id": 15,
+        "name": "Cauliflower",
+        "difficulty": "3",
+        "space": "3",
+        "time": "4",
+        "price": "3.15"
+    },
+    "plant16": {
+        "id": 16,
+        "name": "Corn",
+        "difficulty": "2",
+        "space": "1",
+        "time": "4",
+        "price": "4.30"
+    },
+    "plant17": {
+        "id": 17,
+        "name": "Pea",
+        "difficulty": "2",
+        "space": "2",
+        "time": "1",
+        "price": "2.50"
+    },
+    "plant18": {
+        "id": 18,
+        "name": "Squash",
+        "difficulty": "5",
+        "space": "4",
+        "time": "5",
+        "price": "5.15"
+    },
+    "plant19": {
+        "id": 19,
+        "name": "Turnip",
+        "difficulty": "3",
+        "space": "2",
+        "time": "1",
+        "price": "3.50"
+    }
+}

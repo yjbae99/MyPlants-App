@@ -1,0 +1,11 @@
+@import './base.css';
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
